@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On  <br>Building intelligent software solutions using Machine Learning, Data Science, and Full-Stack Development while exploring real-world applications of AI.<br><br>👯 Looking to Collaborate On  <br>Open-source contributions, AI-driven products, research-oriented projects, and innovative startup ideas that solve meaningful problems.<br><br>🤝 Looking for Help With  <br>Scalable software architecture, production ML systems, cloud infrastructure, and engineering practices used by high-growth technology companies.<br><br>🌱 Currently Learning  <br>Advanced Machine Learning, Generative AI, System Design, Cloud Technologies, and Data Structures & Algorithms to become a well-rounded Software Engineer.<br><br>💬 Ask Me About  <br>Python, C++, Machine Learning, Data Science, React, Next.js, Full-Stack Development, and problem-solving strategies.<br><br>⚡ Fun Fact  <br>I believe the best engineers never stop learning. I'm constantly exploring new technologies, building projects, and turning challenging problems into practical solutions.
+🔭 Currently Working On  <br>Building intelligent software solutions using Machine Learning, Data Science, and Full-Stack Development while exploring real-world applications of AI.<br><br>👯 Looking to Collaborate On  <br>Open-source contributions, AI-driven products, research-oriented projects, and innovative startup ideas that solve meaningful problems.<br><br>🤝 Looking for Help With  <br>Scalable software architecture, production ML systems, cloud infrastructure, and engineering practices used by high-growth technology companies.<br><br>🌱 Currently Learning  <br>Advanced Machine Learning, Generative AI, System Design, Cloud Technologies, and Data Structures & Algorithms to become a well-rounded Software Engineer.<br><br>💬 Ask Me About  <br>Python, C++, JavaScript, React, Machine Learning, Data Analysis, APIs, and software development workflows.<br><br>⚡ Fun Fact  <br>I believe the best engineers never stop learning. I'm constantly exploring new technologies, building projects, and turning challenging problems into practical solutions.
 
 
 ## 🌐 Socials:
@@ -15,10 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Trisharawat05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Trisharawat05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Trisharawat05&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
